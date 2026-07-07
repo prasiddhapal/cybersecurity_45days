@@ -7,10 +7,9 @@
 | **Name** | PRASIDDHA PAL |
 | **Branch** | CSE (2027) |
 | **Internship** | Cyber Security Internship |
-| **Organization** | Elevate Labs |
 | **Task** | Task 6 - Create a Strong Password and Evaluate Its Strength |
 | **Status** | ✅ Completed |
-| **Operating System** | Ubuntu Linux |
+| **Operating System** | Kali Linux |
 
 ---
 
