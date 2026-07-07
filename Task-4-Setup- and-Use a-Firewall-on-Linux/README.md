@@ -4,14 +4,14 @@
 
 | Field | Details |
 |-------|---------|
-| **Name** | Your Name |
+| **Name** | PRASIDDHA PAL |
 | **Status** | Completed |
 | **Course** | Cyber Security Internship |
 | **Task** | Task 4 - Setup and Use a Firewall on Windows/Linux |
 | **Operating System** | Ubuntu Linux |
 | **Firewall Tool** | UFW (Uncomplicated Firewall) |
-| **Date** | DD/MM/YYYY |
-| **GitHub** | https://github.com/your-username/firewall-task |
+| **Date** | 05-07-2026 |
+| **GitHub** | https://github.com/prasiddhapal/cybersecurity_45days/tree/main/Task-4-Setup-%20and-Use%20a-Firewall-on-Linux |
 
 ---
 
@@ -112,8 +112,8 @@ firewall-task/
 
 ## Author
 
-**Name:** Your Name
+**Name:** PRASIDDHA PAL
 
-**GitHub:** https://github.com/your-username
+**GitHub:** https://github.com/prasiddhapal
 
 **Status:** ✅ Task Completed Successfully
